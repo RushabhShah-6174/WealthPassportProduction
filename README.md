@@ -1,10 +1,7 @@
 # Wealth Passsport Phase 1 
 
-Welcome, and thank you for your interest in the DevOps Engineer role at CaseGuard.
 
-This assignment is designed to evaluate your **infrastructure design** and **execution skills**. Your task is to deploy the ProductManagementSystem API to AWS using Infrastructure as Code (AWS CDK in C#). This is meant to be a **couple hours of focused work** - we want to see how you approach problems and make architectural decisions, not perfection.
-
-**Focus on**: Making it work properly, then documenting your choices and reasoning so we can discuss them in the next interview.
+This documentation is designed to evaluate our **infrastructure design** and **execution skills**. Task is to deploy the ProductManagementSystem API to AWS using Infrastructure as Code (AWS CDK in C#). 
 
 ---
 
